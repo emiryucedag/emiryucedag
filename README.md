@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:emiryucedag@hotmail.com" target="_blank">
+  <a href="mailto:emiryucedag10@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=to%20reach%20me:&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
   </a>
   <a href="https://www.linkedin.com/in/emiryucedag/" target="_blank">
