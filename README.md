@@ -10,15 +10,15 @@ Based in Ankara, Türkiye.
 
 ---
 
-###  What I Work On
+### What I Work On
 
--  Full-stack development on an enterprise **PLM** platform with **Spring Boot** and **Vue.js**: REST APIs, session-based i18n, backend refactoring
--  Applied AI: **NLP**, **anomaly detection**, **object detection (YOLO)**, **OCR**, **LLMs, RAG and AI agents**
--  Mobile and backend apps with **React Native**, **Expo** and **Supabase**
+- Full-stack development on an enterprise **PLM** platform with **Spring Boot** and **Vue.js**: REST APIs, session-based i18n, backend refactoring
+- Applied AI: **NLP**, **anomaly detection**, **object detection (YOLO)**, **OCR**, **LLMs, RAG and AI agents**
+- Mobile and backend apps with **React Native**, **Expo** and **Supabase**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -55,6 +55,7 @@ Based in Ankara, Türkiye.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="32" alt="SciPy"/>
 </p>
 
 **Machine Learning & AI**
@@ -68,17 +69,21 @@ Based in Ankara, Türkiye.
 ![LLMs](https://img.shields.io/badge/LLMs-2C3E50?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-2C3E50?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-2C3E50?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-2C3E50?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-2C3E50?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-2C3E50?style=flat-square)
 
 **Hardware:** ![Verilog](https://img.shields.io/badge/Verilog-2C3E50?style=flat-square)
 
 ---
 
-### Featured Projects
+### Highlighted Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**GatherUp**](https://github.com/LordOfTheStringss/GatherUp) | AI-powered, campus-exclusive social network: OCR-based syllabus ingestion, vector-similarity event matching, real-time chat | `React Native` `Supabase` `TypeScript` |
-| [**llm-rag-agents**](https://github.com/emiryucedag/llm-rag-agents) | AI assistant that analyzes MIL-STD documents, answers questions from their content and cites sources (Roketsan AI Workshop) | `Python` `LLM` `RAG` |
+| [**tr-news_research_rag-agent**](https://github.com/emiryucedag/tr-news_research_rag-agent) | Local multi-agent system that researches and summarizes current Turkish news with source citations. Researcher/writer agent split on top of a RAG layer with time-windowed semantic retrieval and batched relevance filtering. Runs fully on-device, no paid API | `Python` `RAG` `AI Agents` `Ollama` `ChromaDB` |
+| [**llm-rag-agents**](https://github.com/emiryucedag/llm-rag-agents) | AI assistant that analyzes MIL-STD documents, answers questions from their content and cites its sources (Roketsan AI Workshop) | `Python` `LLM` `RAG` |
+| [**GatherUp**](https://github.com/LordOfTheStringss/GatherUp) | AI-powered, campus-exclusive social network: OCR-based syllabus ingestion, vector-similarity event matching, real-time chat | `React Native` `Supabase` `TypeScript` `OCR` |
 | [**IMDB Spoiler Detection**](https://github.com/emiryucedag/IMDB_Spoiler_Detection_ML) | Spoiler classification on IMDB reviews, comparing Logistic Regression, SVM, LightGBM, LSTM and DistilBERT | `Python` `NLP` `Scikit-learn` |
 | [**Pomohodoro**](https://github.com/emiryucedag/pomohodoro) | Minimalist productivity app with a session planner, live timeline and focus noise synthesis | `React` `JavaScript` |
 | [**WeatherApp_WPF**](https://github.com/emiryucedag/WeatherApp_WPF) | Desktop weather app with real-time updates | `C#` `WPF` |
@@ -87,9 +92,9 @@ Based in Ankara, Türkiye.
 
 ### Experience
 
-- **Roketsan**: PLM Full-Stack Intern 
-- **SimBT**: Full-Stack Intern, C# / WPF / OpenCV 
-- **HAVELSAN**: Test & Automation Intern 
+- **Roketsan**: PLM Full-Stack Intern
+- **SimBT**: Full-Stack Intern, C# / WPF / OpenCV
+- **HAVELSAN**: Test & Automation Intern
 
 ### Education
 
@@ -97,9 +102,9 @@ B.Sc. Computer Engineering, TOBB University of Economics and Technology (2022 �
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=emiryucedag&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryucedag&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryucedag&layout=compact&hide_border=true&theme=transparent&hide=jupyter%20notebook,html" alt="Top languages"/>
 </p>
