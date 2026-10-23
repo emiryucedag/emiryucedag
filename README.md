@@ -18,7 +18,6 @@ Based in Ankara, Türkiye.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryucedag&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html)
 
 ### Tech Stack
 
@@ -92,6 +91,7 @@ Based in Ankara, Türkiye.
 
 ---
 
+
 ### Experience
 
 - **Roketsan**: PLM Full-Stack Intern
@@ -108,5 +108,6 @@ B.Sc. Computer Engineering, TOBB University of Economics and Technology (2022 �
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=emiryucedag&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiryucedag&layout=compact&hide_border=true&theme=transparent&hide=jupyter%20notebook,html" alt="Top languages"/>
 </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryucedag&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html)
