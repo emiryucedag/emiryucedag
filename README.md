@@ -18,6 +18,8 @@ Based in Ankara, Türkiye.
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryucedag&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html)
+
 ### Tech Stack
 
 **Languages**
