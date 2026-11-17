@@ -1,16 +1,22 @@
-<h1 align="left">Hi, I'm Emir 👋</h1>
+<h1 align="center">Hi, I'm Emir 👋</h1>
 
-### AI Engineer & Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full-Stack+Developer;NLP+%7C+Computer+Vision+%7C+LLMs+%7C+RAG;Building+local+AI+agents+with+Ollama" alt="Typing SVG"/>
+</p>
 
-Computer Engineer building full-stack applications and applied AI systems (NLP, computer vision, LLMs, RAG, AI agents).
-Based in Ankara, Türkiye.
+<p align="center">
+  Computer Engineer building full-stack applications and applied AI systems (NLP, computer vision, LLMs, RAG, AI agents).<br/>
+  📍 Ankara, Türkiye
+</p>
 
-<a href="https://www.linkedin.com/in/emiryucedag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:emiryucedag10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/emiryucedag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:emiryucedag10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-### What I Work On
+###  What I Work On
 
 - Full-stack development on an enterprise **PLM** platform with **Spring Boot** and **Vue.js**: REST APIs, session-based i18n, backend refactoring
 - Applied AI: **NLP**, **anomaly detection**, **object detection (YOLO)**, **OCR**, **LLMs, RAG and AI agents**
@@ -18,67 +24,72 @@ Based in Ankara, Türkiye.
 
 ---
 
-
-### Tech Stack
+###  Tech Stack
 
 **Languages**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 **Frameworks & Platforms**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React / React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40" alt="Expo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="32" alt="WPF"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React%20%2F%20React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React / React Native"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF"/>
 </p>
 
 **Libraries & Tools**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="32" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 **Machine Learning & AI**
 
-![Classification](https://img.shields.io/badge/Classification-2C3E50?style=flat-square)
-![Object Detection (YOLO)](https://img.shields.io/badge/Object%20Detection%20(YOLO)-2C3E50?style=flat-square)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-2C3E50?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-2C3E50?style=flat-square)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-2C3E50?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-2C3E50?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-2C3E50?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-2C3E50?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-2C3E50?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-2C3E50?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-2C3E50?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-2C3E50?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Classification-E8335D?style=for-the-badge" alt="Classification"/>
+  <img src="https://img.shields.io/badge/Object%20Detection%20%28YOLO%29-F5A623?style=for-the-badge" alt="Object Detection (YOLO)"/>
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-B620E0?style=for-the-badge" alt="Anomaly Detection"/>
+  <img src="https://img.shields.io/badge/OCR-3B82F6?style=for-the-badge" alt="OCR"/>
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-2C3E50?style=for-the-badge" alt="Predictive Modeling"/>
+  <img src="https://img.shields.io/badge/NLP-10B981?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-EA580C?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-DB2777?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-0891B2?style=for-the-badge" alt="Vector Search"/>
+</p>
 
-**Hardware:** ![Verilog](https://img.shields.io/badge/Verilog-2C3E50?style=flat-square)
+**Hardware**
+
+<p>
+  <img src="https://img.shields.io/badge/Verilog-6B7280?style=for-the-badge" alt="Verilog"/>
+</p>
 
 ---
 
-### Highlighted Projects
+###  Highlighted Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -90,3 +101,14 @@ Based in Ankara, Türkiye.
 | [**Pomohodoro**](https://github.com/emiryucedag/pomohodoro) | Minimalist productivity app with a session planner, live timeline and focus noise synthesis | `React` `JavaScript` |
 | [**WeatherApp_WPF**](https://github.com/emiryucedag/WeatherApp_WPF) | Desktop weather app with real-time updates | `C#` `WPF` |
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiryucedag/emiryucedag/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiryucedag/emiryucedag/output/github-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/emiryucedag/emiryucedag/output/github-snake.svg"/>
+  </picture>
+</p>
