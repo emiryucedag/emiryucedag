@@ -90,25 +90,3 @@ Based in Ankara, Türkiye.
 | [**Pomohodoro**](https://github.com/emiryucedag/pomohodoro) | Minimalist productivity app with a session planner, live timeline and focus noise synthesis | `React` `JavaScript` |
 | [**WeatherApp_WPF**](https://github.com/emiryucedag/WeatherApp_WPF) | Desktop weather app with real-time updates | `C#` `WPF` |
 
----
-
-
-### Experience
-
-- **Roketsan**: PLM Full-Stack Intern
-- **SimBT**: Full-Stack Intern, C# / WPF / OpenCV
-- **HAVELSAN**: Test & Automation Intern
-
-### Education
-
-B.Sc. Computer Engineering, TOBB University of Economics and Technology (2022 – 2026)
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emiryucedag&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-</p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiryucedag&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html)
